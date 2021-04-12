@@ -21,7 +21,7 @@ function App() {
       <hr />
       <hr />
       <br />
-      {/* <Setup4 />  */}
+      <Setup4 /> 
     </div>
   );
 }
