@@ -3,7 +3,7 @@ import Setup from "./tutorial/1-useState/setup/2-useState-basics";
 import Setup1 from "./tutorial/1-useState/setup/3-useState-array";
 import Setup2 from "./tutorial/1-useState/setup/4-useState-object";
 import Setup3 from "./tutorial/1-useState/setup/5-useState-counter";
-// import Setup4 from "./tutorial/2-useEffect/setup/1-useEffect-basics";
+import Setup4 from "./tutorial/2-useEffect/setup/1-useEffect-basics";
 
 function App() {
   return (
@@ -21,7 +21,7 @@ function App() {
       <hr />
       <hr />
       <br />
-      <Setup4 /> 
+      <Setup4 />
     </div>
   );
 }
