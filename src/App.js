@@ -22,6 +22,8 @@ function App() {
       <hr />
       <br />
       <Setup4 />
+      <hr />
+      <br />
     </div>
   );
 }
