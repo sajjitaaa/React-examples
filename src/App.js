@@ -11,17 +11,17 @@ function App() {
       <Setup />
       <hr />
       <br />
-      {/* <Setup1 />
+      <Setup1 />
       <hr />
       <br />
-      <Setup2 />
+      {/* <Setup2 />
       <hr />
       <br />
       <Setup3 />
       <hr />
       <hr />
       <br />
-      <Setup4 /> */}
+      <Setup4 />  */}
     </div>
   );
 }
